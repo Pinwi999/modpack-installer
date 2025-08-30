@@ -1,6 +1,6 @@
 # If your antivirus flags this, it is because this isn't commonly downloaded. Add it as an exception.
 
-Install [Here](.Releases)
+Install [Here](../../releases)
 
 # Modrinth .mrpack (modpack) to individual .jar files
 
